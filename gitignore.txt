@@ -1,1 +1,3 @@
 this is file.txt
+new line gitignore.txt
+
